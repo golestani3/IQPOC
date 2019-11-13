@@ -1,1 +1,77 @@
-[{"qt":"Malware can be found in:","at":"All of these","tt":["Spreadsheets","PDF files","Executable files"],"type":"single","completed":false,"correct":null,"selectedAns":[]},{"qt":"You are visiting your favorite website and it warns you that your Flash plugin is out of date. You should:","at":"Only download the update from the official source.","tt":["Ignore updates on your computer","Install the update using a private browsing session","Install the update from your favorite website"],"type":"single","completed":false,"correct":null,"selectedAns":[]},{"qt":"You receive an email from your coworker (Sally). You and Sally are working on an important presentation. Sally sends you a PowerPoint presentation for review. You should:","at":"Because you were expecting the document from Sally it is likely safe to download and open.","tt":["View the file on Sally's computer","Ask Sally to print out paper copies of the presentation.","Let Sally give the presentation"],"type":"single","completed":false,"correct":null,"selectedAns":[]},{"qt":"Your boss gives you a flash drive. She explains that the drive contains all the necessary files to complete your project. You should:","at":"All of these","tt":["Insert the flash drive and use the files. Because the drive came from a trusted source it is safe to use.","Ask your boss to email the files ~Explain that flash drives are dangerous and report the behavior to your IT department","Format the flash drive to make it safe"],"type":"single","completed":false,"correct":null,"selectedAns":[]},{"qt":"A good protection against malware is to:","at":"Be suspicious of incoming files","tt":["Ignore emails","Ignore updates","Not use Bluetooth devices"],"type":"single","completed":false,"correct":null,"selectedAns":[]}]
+[ 
+   { 
+      "qt":"Malware can be found in:",
+      "at":"All of these",
+      "tt":[ 
+         "Spreadsheets",
+         "PDF files",
+         "Executable files"
+      ],
+      "type":"single",
+      "completed":false,
+      "correct":null,
+      "selectedAns":[ 
+
+      ]
+   },
+   { 
+      "qt":"You are visiting your favorite website and it warns you that your Flash plugin is out of date. You should:",
+      "at":"Only download the update from the official source.",
+      "tt":[ 
+         "Ignore updates on your computer",
+         "Install the update using a private browsing session",
+         "Install the update from your favorite website"
+      ],
+      "type":"single",
+      "completed":false,
+      "correct":null,
+      "selectedAns":[ 
+
+      ]
+   },
+   { 
+      "qt":"You receive an email from your coworker (Sally). You and Sally are working on an important presentation. Sally sends you a PowerPoint presentation for review. You should:",
+      "at":"Because you were expecting the document from Sally it is likely safe to download and open.",
+      "tt":[ 
+         "View the file on Sally's computer",
+         "Ask Sally to print out paper copies of the presentation.",
+         "Let Sally give the presentation"
+      ],
+      "type":"single",
+      "completed":false,
+      "correct":null,
+      "selectedAns":[ 
+
+      ]
+   },
+   { 
+      "qt":"Your boss gives you a flash drive. She explains that the drive contains all the necessary files to complete your project. You should:",
+      "at":"All of these",
+      "tt":[ 
+         "Insert the flash drive and use the files. Because the drive came from a trusted source it is safe to use.",
+         "Ask your boss to email the files ~Explain that flash drives are dangerous and report the behavior to your IT department",
+         "Format the flash drive to make it safe"
+      ],
+      "type":"single",
+      "completed":false,
+      "correct":null,
+      "selectedAns":[ 
+
+      ]
+   },
+   { 
+      "qt":"A good protection against malware is to:",
+      "at":"Be suspicious of incoming files",
+      "tt":[ 
+         "Ignore emails",
+         "Ignore updates",
+         "Not use Bluetooth devices"
+      ],
+      "type":"single",
+      "completed":false,
+      "correct":null,
+      "selectedAns":[ 
+
+      ]
+   }
+]
